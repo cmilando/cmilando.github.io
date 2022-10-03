@@ -9,5 +9,5 @@ redirect_from:
   - /bio
 ---
 
-Welcome to my new website! While I'm getting this setup, please feel free to [email me](mailto:cmilando@bu.edu)
-![]("/_images/headshot_mini.png")
+Welcome to my new website! While I'm getting this set up, please feel free to [email me](mailto:cmilando@bu.edu)
+![]("/images/headshot_mini.png")
