@@ -10,3 +10,4 @@ redirect_from:
 ---
 
 Welcome to my new website! While I'm getting this setup, please feel free to [email me](mailto:cmilando@bu.edu)
+![]("../_images/headshot_mini.png")
