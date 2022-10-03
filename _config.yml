@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chad Milando, PhD"
 title_separator          : "-"
-name                     : &name "Chad Milando ss"
+name                     : &name "Chad Milando"
 description              : &description "personal description"
 url                      : "https://cmilando.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chad Milando, PhD"
   avatar           : "image-alignment-150x150.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Your biography for the left-hand sidebar ss"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
