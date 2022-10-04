@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Chad Milando, PhD"
   avatar           : "headshot_mini.png"
-  bio              : "Research Scientist at Boston University School of Public Health"
+  bio              : "Research Scientist studying the health impacts of climate change"
   location         : "Boston, MA"
-  employer         : "Boston University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bKqcxmwAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "cmilando@bu.edu"
@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/0000-0001-6340-7754"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/13393038/cmilando"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "chadmilando"
