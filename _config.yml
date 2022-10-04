@@ -84,11 +84,11 @@ author:
   avatar           : "headshot_mini.png"
   bio              : "Research Scientist at Boston University School of Public Health"
   location         : "Boston, MA"
-  employer         :
+  employer         : "Boston University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bKqcxmwAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "cmilando@bu.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/0000-0001-6340-7754"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/13393038/cmilando"
   steam            :
   tumblr           :
   twitter          : "chadmilando"

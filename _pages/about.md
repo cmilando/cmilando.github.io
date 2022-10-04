@@ -13,4 +13,4 @@ Welcome! I'm Chad, a research scientist studying the health impacts of climate c
 
 This is my new website! While I'm getting this set up, please feel free to [email me](mailto:cmilando@bu.edu) with any questions.
 
-Also, for now, see my publications on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=bKqcxmwAAAAJ&view_op=list_works&sortby=pubdate)
+Also, for now, please see my publications on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=bKqcxmwAAAAJ&view_op=list_works&sortby=pubdate)
