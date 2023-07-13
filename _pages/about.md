@@ -9,7 +9,7 @@ redirect_from:
   - /bio/
 ---
 
-Welcome! I'm Chad, a research scientist studying the health impacts of climate change, at Boston University.
+Welcome! I'm Chad, a research scientist studying the health impacts of climate change at Boston University, Center for Climate and Health.
 
 This is my new website! While I'm getting this set up, please feel free to with any questions: cmilando at bu dot edu!
 
