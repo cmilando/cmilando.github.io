@@ -1,8 +1,11 @@
 ---
 permalink: /
+title: "Research Scientist, Boston University School of Public Health"
+excerpt: "About me"
 author_profile: true
 header:
   overlay_image: /assets/images/jon-flobrant-forest-unsplash.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Jon Flobrant**](https://unsplash.com/photos/JU2MgHOHDsw)"
 redirect_from: 
   - /about/
