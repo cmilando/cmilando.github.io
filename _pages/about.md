@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: " "
-excerpt: " "
+title: "\n"
+excerpt: "\n"
 author_profile: true
 header:
   overlay_image: forest.jpg
-  overlay_opacity: 0.5
+  overlay_opacity: 0.25
   caption: "Photo credit: [**Jon Flobrant**](https://unsplash.com/photos/JU2MgHOHDsw)"
 redirect_from: 
   - /about/
