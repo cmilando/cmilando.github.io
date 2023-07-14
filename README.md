@@ -1,6 +1,7 @@
 ### Chad's notes
 
 * to add new pages, you have to updated navigation.yml, in the _data folder. and you need the page to exist in _pages
+* this guy's page is good: https://junqing-zhang.github.io/professional-activities/
 
 
 ----
