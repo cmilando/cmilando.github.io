@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: " "
+excerpt: " "
 author_profile: true
-layout: splash
 header:
-  overlay_image: /assets/images/jon-flobrant-forest-unsplash.jpg
-  overlay_opacity: 1
+  overlay_image: /assets/images/Poisson.png
+  overlay_opacity: 0.5
   caption: "Photo credit: [**Jon Flobrant**](https://unsplash.com/photos/JU2MgHOHDsw)"
 redirect_from: 
   - /about/
