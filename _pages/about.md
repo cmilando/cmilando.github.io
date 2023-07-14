@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<br>"
+title: " "
 excerpt: "<br>"
 author_profile: true
 header:

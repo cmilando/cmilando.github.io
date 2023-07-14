@@ -17,3 +17,12 @@ This page lists software tools I have built.
 [![MCR](/assets/images/MCR.png)](https://github.com/cmilando/reportback-vba)
 
 If you use MCR in your projects, please cite [Polka et. al.,](https://doi.org/10.3390/ijerph18116104). Let me know if you have any questions! 
+
+# Framework for Rapid Exposure and Health Effects Estimation (FRESH-Est)
+
+The Framework for Rapid Exposure and Health Effects Estimation (FRESH-Est) is a tool that allows users to estimate the health affects attributable to point source emissions. The tool combines dispersion modeling (AERMOD) with calculations of attributable burden (similar to the EPA’s BenMAP program) in a single framework. The benefits of using FRESH-Est are: 1) health effects for various emissions scenarios can be estimated quickly, and 2) there is an optimization module that focuses on receptor concentrations, health effects, or inequality impacts.
+
+[![FRESHEST](/assets/images/FRESHEST.jpg)](https://doi.org/10.1016/j.envint.2016.06.005)
+
+See the [Milando, Martenies, and Batterman, 2016](https://doi.org/10.1016/j.envint.2016.06.005) for more details. A working demo is also available in [this google folder](https://drive.google.com/drive/folders/10FAlCxDc57wwkE5jNLcrf3qc4bGVUkso?usp=sharing) (access available upon request). 
+
