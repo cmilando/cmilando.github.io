@@ -4,7 +4,7 @@ title: " "
 excerpt: " "
 author_profile: true
 header:
-  overlay_image: /assets/images/Poisson.png
+  overlay_image: forest.jpg
   overlay_opacity: 0.5
   caption: "Photo credit: [**Jon Flobrant**](https://unsplash.com/photos/JU2MgHOHDsw)"
 redirect_from: 
