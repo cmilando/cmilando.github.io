@@ -7,6 +7,8 @@ toc: true
 
 This page lists teaching tools (in Excel, R, and Python), as well as pdfs of presentations I've given on topics relevant to environmental health, engineering and introductions to computer science.
 
+{% include toc %}
+
 # Methods
 ***
 ## B-spline functions
