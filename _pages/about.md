@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Research Scientist"
-excerpt: "Boston University School of Public Health"
+title: "<br>"
+excerpt: "<br>"
 author_profile: true
 header:
   overlay_image: forest.jpg
