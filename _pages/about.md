@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "Research Scientist, Boston University School of Public Health"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
+layout: splash
 header:
-  image: /assets/images/jon-flobrant-forest-unsplash.jpg
+  overlay_image: /assets/images/jon-flobrant-forest-unsplash.jpg
+  overlay_opacity: 1
   caption: "Photo credit: [**Jon Flobrant**](https://unsplash.com/photos/JU2MgHOHDsw)"
 redirect_from: 
   - /about/
