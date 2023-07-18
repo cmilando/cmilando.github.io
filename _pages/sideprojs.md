@@ -11,16 +11,12 @@ Oh so many side projects.
 <br>
 
 # Apps
-
+___
 ## Loan payoff
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/loanpay.png){: .align-left}
-
-I wanted to optimize the a loan payoff strategy, so I made [an R shiny app](https://cmilando.shinyapps.io/loan-payoff/).
-
-<figure style="width: 150px" class="align-left">
+<figure style="width: 300px" class="align-left" href="https://cmilando.shinyapps.io/loan-payoff/">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/loanpay.png" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
+  <figcaption>R Shiny app</figcaption>
 </figure> 
 
 I wanted to optimize the a loan payoff strategy, so I made [an R shiny app](https://cmilando.shinyapps.io/loan-payoff/).
