@@ -4,7 +4,7 @@ permalink: /side-projects/
 author_profile: true
 toc: true
 feature_row_app1:
-  - image_path: {{ site.url }}{{ site.baseurl }}/assets/images/loanpay.png
+  - image_path: /assets/images/loanpay.png
     alt: "Loan payoff app img"
     url: "https://cmilando.shinyapps.io/loan-payoff/"
     title: "## Loan payoff"
