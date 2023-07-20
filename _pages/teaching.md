@@ -25,7 +25,7 @@ Unconditional Poisson models may be computationally expensive to run in case-cro
 
 ## Conditional Logistic Regression
 
-In progress
+_In progress_
 
 ## Distributed Lag Non-linear Modeling (DLNM)
 

@@ -33,11 +33,11 @@ The Framework for Rapid Exposure and Health Effects Estimation (FRESH-Est) is a 
 
 ## miniCONTAM rapid indoor air health impact estimation 
 
-Details in progress
+_In progress_
 
 ## CONTAM Energy-plus automated coupled model preparation
 
-Details in progress
+_In progress_
 
 # Functions
 ___

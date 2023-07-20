@@ -18,6 +18,7 @@ feature_row_app1:
     excerpt: "5 years after giving the first time management lecture, I prepared a second lecture that took a slightly bigger view on things, and answered the question: what is the plan for your career."
     btn_label: "View"
     btn_class: "btn--inverse"
+feature_row_app2:
   - image_path: abc.png
     alt: "Mentorship doc"
     url: "https://docs.google.com/document/d/1bz6Soiy4z0G4leJzod_BP4LuGRehzek7Ff4p3VkFO9I/edit?usp=sharing"
@@ -29,8 +30,6 @@ feature_row_app1:
 
 Mentorship and helping others develop their careers is one of the best parts of my job. I maintain a small blog related to one-off tips about surviving life in academia: [phdmeta.com](https://www.phdmeta.com), and have given several presentations on time management as it pertains to life in academia.
 
-
-
 {% include toc %}
 <br>
 
@@ -40,3 +39,4 @@ ___
 
 # Mentorship resources
 ___
+{% include feature_row id="feature_row_app2" %}
