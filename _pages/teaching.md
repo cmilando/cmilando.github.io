@@ -19,7 +19,7 @@ Basis-splines are an essential part of many computer science functions, but what
 
 ## Conditional and Unconditional Poisson regression
 
-Unconditional Poisson models may be computationally expensive to run in case-crossover settings with discrete outcomes.[Armstrong, Gasparrini, and Tobias, 2014](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-122) show that conditional Poisson is simpler and produces the same results. I recreated the similarity between the conditional and unconditional poisson models for case-crossover epidemiology, in a [google sheet](https://docs.google.com/spreadsheets/d/1eNbHk5S-NEwsu49rO7XXXCVJnmLdLUQRxH3OQ-5HwUU/edit?usp=sharing), with Solver used to minimize the log-likelihood function.
+Unconditional Poisson models may be computationally expensive to run in case-crossover settings with discrete outcomes. [Armstrong, Gasparrini, and Tobias, 2014](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-122) show that conditional Poisson is simpler and produces the same results. I recreated the similarity between the conditional and unconditional poisson models for case-crossover epidemiology, in a [google sheet](https://docs.google.com/spreadsheets/d/1eNbHk5S-NEwsu49rO7XXXCVJnmLdLUQRxH3OQ-5HwUU/edit?usp=sharing), with Solver used to minimize the log-likelihood function.
 
 [![Poisson](/assets/images/Poisson.png)](https://docs.google.com/spreadsheets/d/1eNbHk5S-NEwsu49rO7XXXCVJnmLdLUQRxH3OQ-5HwUU/edit?usp=sharing) 
 
