@@ -23,15 +23,13 @@ Unconditional Poisson models may be computationally expensive to run in case-cro
 
 [![Poisson](/assets/images/Poisson.png)](https://docs.google.com/spreadsheets/d/1eNbHk5S-NEwsu49rO7XXXCVJnmLdLUQRxH3OQ-5HwUU/edit?usp=sharing) 
 
-## Conditional Logistic Regression
-
-_In progress_
-
 ## Distributed Lag Non-linear Modeling (DLNM)
 
 DLNMs are ubiquitous in time-series studies of the health impact of environmental hazards, because they allow for simultaneous modeling of exposures and lag structures of those exposures (e.g., what happened yesterday and today differently impacts the probability of health outcomes today). The methods underlying DLNMs are somewhat complex (e.g., creation of crossbasis and prediction matrices), so I created a [google sheet](https://docs.google.com/spreadsheets/d/1SP6PTXO6TtaVxoACTi5at0KpCNa9jmGhb6vR4PSiYmg/edit?usp=sharing]) that walks through each of the steps of DLNM application. The seminal reference for DLNMs is [Gasparrini, 2013](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.5963)
 
 [![DLNM](/assets/images/DLNM.png)](https://docs.google.com/spreadsheets/d/1SP6PTXO6TtaVxoACTi5at0KpCNa9jmGhb6vR4PSiYmg/edit?usp=sharing) 
+
+_In progress: RR per IQR, conditional logistic_
 
 # Presentations
 ____
