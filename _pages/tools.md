@@ -31,6 +31,10 @@ The Framework for Rapid Exposure and Health Effects Estimation (FRESH-Est) is a 
 
 [![FRESHEST](/assets/images/FRESHEST.jpg)](https://doi.org/10.1016/j.envint.2016.06.005)
 
+## Two-stage synthetic population generation via combinatorial optimization
+
+_In progress_ (FBJI bookdown)
+
 ## miniCONTAM rapid indoor air health impact estimation 
 
 _In progress_
