@@ -4,6 +4,8 @@ main:
     url: /teaching/
   - title: "Tools"
     url: /tools/
+  - title: "Mentorship"
+    url: /mentorship/
   - title: "Side projects"
     url: /side-projects/
     
