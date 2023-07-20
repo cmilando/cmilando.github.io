@@ -31,5 +31,5 @@ The Framework for Rapid Exposure and Health Effects Estimation (FRESH-Est) is a 
 [![FRESHEST](/assets/images/FRESHEST.jpg)](https://doi.org/10.1016/j.envint.2016.06.005)
 
 # Functions
-___
+
 {% include feature_row id="feature_row_app1" %}
