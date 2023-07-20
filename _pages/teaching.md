@@ -36,3 +36,8 @@ DLNMs are ubiquitous in time-series studies of the health impact of environmenta
 # Presentations
 ____
 
+_In progress:_
+    - _4 lectures from Coding seminar_
+    - _EH risk lecture from N Cesare class_
+    - _Code group with N Cesare_
+    - _Michigan lecture on near-roadway_
