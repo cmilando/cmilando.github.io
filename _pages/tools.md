@@ -14,8 +14,8 @@ feature_row_app1:
   - image_path: DLNM_sweep.png
     alt: "DLNM sweep"
     url: "https://chadmilando.com/wald-test-percentiles/"
-    title: "Wald test percentiles"
-    excerpt: "Johnson and Romer 2016 provided an algorithm to compare a limited set of percentiles between two distributions. I created an R function to implement it."
+    title: "DLNM parameter sweep"
+    excerpt: "These functions allow you to test many crossbasis options in the DLNM framework."
     btn_label: "View"
     btn_class: "btn--inverse"
 ---
