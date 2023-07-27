@@ -13,7 +13,7 @@ feature_row_app1:
     btn_class: "btn--inverse"
   - image_path: DLNM_sweep.png
     alt: "DLNM sweep"
-    url: "https://chadmilando.com/wald-test-percentiles/"
+    url: "https://chadmilando.com/dlnm-sweep/"
     title: "DLNM parameter sweep"
     excerpt: "These functions allow you to test many crossbasis options in the DLNM framework."
     btn_label: "View"
