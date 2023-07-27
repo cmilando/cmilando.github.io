@@ -11,6 +11,13 @@ feature_row_app1:
     excerpt: "Johnson and Romer 2016 provided an algorithm to compare a limited set of percentiles between two distributions. I created an R function to implement it."
     btn_label: "View"
     btn_class: "btn--inverse"
+  - image_path: DLNM_sweep.png
+    alt: "DLNM sweep"
+    url: "https://chadmilando.com/wald-test-percentiles/"
+    title: "Wald test percentiles"
+    excerpt: "Johnson and Romer 2016 provided an algorithm to compare a limited set of percentiles between two distributions. I created an R function to implement it."
+    btn_label: "View"
+    btn_class: "btn--inverse"
 ---
 
 This page lists software and tools I have built, as well as one-off code functions that I think could be useful.
