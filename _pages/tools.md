@@ -40,7 +40,9 @@ The Framework for Rapid Exposure and Health Effects Estimation (FRESH-Est) is a 
 
 ## Two-stage synthetic population generation via combinatorial optimization
 
-_In progress_ (FJBI bookdown)
+We built on Combinatorial Optimization code by Dr. Paul Williamson ([link](https://pcwww.liv.ac.uk/~william/microdata/CO%20070615/CO_software.html)) to create synthetic cohorts for various populations in Boston. These synthetic cohorts have been used in a number of applications at BU: to assess the relationship between smoking and demographic variables in New Bedford, MA ([Levy et. al., 2014](https://doi.org/10.1371/journal.pone.0087144)), to assess impacts of multiple health promoting behaviors (diet, exercise) in combination with environmental exposures ([Basra et. al., 2017](https://doi.org/10.3390/ijerph14070730)), and testing the impact of neighborhood greening on birthweight ([Milando et. al., 2021](https://doi.org/10.1038/s41370-021-00318-4)). A summary of the methods and current applications are described [here](https://chadmilando.com/synthpop-bookdown/).
+
+[![SYNTHPOP](/assets/images/synthpop.png)](https://chadmilando.com/synthpop-bookdown/)
 
 ## miniCONTAM rapid indoor air health impact estimation 
 
