@@ -27,9 +27,15 @@ This page lists software and tools I have built, as well as one-off code functio
 # Software / Tools
 ___
 ## Simulation of infectious disease dynamics
-This document walks through the steps of simulating estimates of the instantaneous reproduction number,$(R(t))$, which can be helpful for surveillance and intervention planning of infectious diseases. For this simulation, we take several steps to simulate how cases spread from one person to another: (1) Simulate the individual-level incubation time distribution, then (2) simulate the individual-level transmission time distribution (assumed to be independent from the incubation time distribution). We then can derive distributions for the generation time and serial interval using the relationships, simulate the individual-level administrative delay in reporting, and simulate the population-level infectivity dynamics.
+[This document](https://mobslab.shinyapps.io/simulate_infection_data/) walks through the steps of simulating estimates of the instantaneous reproduction number,$R(t)$, which can be helpful for surveillance and intervention planning of infectious diseases. For this simulation, we take several steps to simulate how cases spread from one person to another: (1) Simulate the individual-level incubation time distribution, then (2) simulate the individual-level transmission time distribution (assumed to be independent from the incubation time distribution). We then can derive distributions for the generation time and serial interval using the relationships, simulate the individual-level administrative delay in reporting, and simulate the population-level infectivity dynamics.
 
 [![RtEval](/assets/images/RtEval.png)](https://mobslab.shinyapps.io/simulate_infection_data/)
+
+## R package: `WhiteLabRt`
+
+[This R package](https://cran.r-project.org/web/packages/WhiteLabRt/index.html) contains a collection of functions related to novel methods for estimating R(t), created by the lab of Professor Laura White. Currently implemented methods include two-step Bayesian back-calculation and now-casting for line-list data with missing reporting delays, adapted in 'STAN' from [Li (2021)](doi:10.1371/journal.pcbi.1009210), and calculation of time-varying reproduction number assuming a flux between various adjacent states, adapted into 'STAN' from [Zhou (2021)](doi:10.1371/journal.pcbi.1010434).
+
+[![WhiteLabRt](/assets/images/WhiteLabRt.png)](https://cran.r-project.org/web/packages/WhiteLabRt/index.html)
 
 ## Macro for Compilation of Report-backs (MCR)
 
