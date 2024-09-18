@@ -24,8 +24,13 @@ This page lists software and tools I have built, as well as one-off code functio
 
 {% include toc %}
 <br>
-# Software
+# Software / Tools
 ___
+## Simulation of infectious disease dynamics
+This document walks through the steps of simulating estimates of the instantaneous reproduction number,$(R(t))$, which can be helpful for surveillance and intervention planning of infectious diseases. For this simulation, we take several steps to simulate how cases spread from one person to another: (1) Simulate the individual-level incubation time distribution, then (2) simulate the individual-level transmission time distribution (assumed to be independent from the incubation time distribution). We then can derive distributions for the generation time and serial interval using the relationships, simulate the individual-level administrative delay in reporting, and simulate the population-level infectivity dynamics.
+
+[![RtEval](/assets/images/RtEval.png)](https://mobslab.shinyapps.io/simulate_infection_data/)
+
 ## Macro for Compilation of Report-backs (MCR)
 
 [This repository](https://github.com/cmilando/reportback-vba) contains the code for the Macro for Compilation of Report-backs (MCR), an open-source, generalizable tool designed to provide researchers in health studies with a flexible and scalable method for compiling individual reports. If you use MCR in your projects, please cite [Polka et. al., 2021](https://doi.org/10.3390/ijerph18116104). Let me know if you have any questions! 
