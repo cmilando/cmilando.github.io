@@ -59,6 +59,8 @@ We built on Combinatorial Optimization code by Dr. Paul Williamson ([link](https
 
 _In progress_
 
+[This document](https://contam-prj-build-doc.readthedocs.io/en/latest/index.html) describes how to set up CONTAM models.
+
 ## CONTAM Energy-plus automated coupled model preparation
 
 _In progress_
