@@ -26,6 +26,11 @@ This page lists software and tools I have built, as well as one-off code functio
 <br>
 # Software / Tools
 ___
+## Simplified environmental epidemiology time-series analyses
+[`cityClimateHealth`](https://www.climatehealth.city) is an R package that greatly simplifies the process of conducting time-series analyses common in environmental epidemiology, specifically in the context of distributed lag non-linear models (DLNM). From a messy exposure and outcome time-series, curves of relative risk and attributable numbers can be calculated easily. 
+
+[![cityClimateHealth](/assets/images/cityClimateHealth.png)](https://www.climatehealth.city)
+
 ## Simulation of infectious disease dynamics
 [This document](https://www.sites.bu.edu/disease-rt) walks through the steps of simulating estimates of the instantaneous reproduction number,$R(t)$, which can be helpful for surveillance and intervention planning of infectious diseases. For this simulation, we take several steps to simulate how cases spread from one person to another: (1) Simulate the individual-level incubation time distribution, then (2) simulate the individual-level transmission time distribution (assumed to be independent from the incubation time distribution). We then can derive distributions for the generation time and serial interval using the relationships, simulate the individual-level administrative delay in reporting, and simulate the population-level infectivity dynamics.
 
