@@ -31,6 +31,11 @@ ___
 
 [![cityClimateHealth](/assets/images/cityClimateHealth.png)](https://climatehealth.city/)
 
+## `findLostData`: a website to help find data sources
+[`findLostData`](https://findLostData.org/) is website that queries from several repositories of recovered datasets. This includes data about environmental justice, health of vulnerable populations, environmental records, and other topics.
+
+[![findLostData](/assets/images/findLostData.png)](https://findLostData.org/)
+
 ## Simulation of infectious disease dynamics
 [This document](https://www.sites.bu.edu/disease-rt) walks through the steps of simulating estimates of the instantaneous reproduction number,$R(t)$, which can be helpful for surveillance and intervention planning of infectious diseases. For this simulation, we take several steps to simulate how cases spread from one person to another: (1) Simulate the individual-level incubation time distribution, then (2) simulate the individual-level transmission time distribution (assumed to be independent from the incubation time distribution). We then can derive distributions for the generation time and serial interval using the relationships, simulate the individual-level administrative delay in reporting, and simulate the population-level infectivity dynamics.
 
